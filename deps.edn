@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {org.apache.commons/commons-math3 {:mvn/version "3.6.1"}}}
